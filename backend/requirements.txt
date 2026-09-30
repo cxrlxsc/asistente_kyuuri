@@ -1,0 +1,13 @@
+# PyTorch con CUDA: instalar primero con
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+torch
+transformers
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+httpx
+numpy
+sounddevice
+soundfile
+piper-tts

@@ -1,0 +1,33 @@
+{
+  "_ayuda": [
+    "Modos: varias acciones de golpe al decir 'ponte en modo trabajo'.",
+    "Pasos disponibles: {\"app\": \"clave\"} de app_catalog.py, {\"folder\": \"clave\"} de folder_catalog.py,",
+    "{\"url\": \"https://...\"}, {\"site\": \"youtube_music\", \"query\": \"lofi\"} de site_catalog.py,",
+    "{\"music\": true} (abre Apple Music y le da play), {\"volume\": \"up|down|mute\"}, {\"wait\": 2} segundos.",
+    "'cierra' son las apps que se cierran al decir 'sal del modo trabajo'.",
+    "Si agregas un modo nuevo, reentrena para que aprenda su nombre: python -m training.train"
+  ],
+  "trabajo": {
+    "alias": ["trabajo", "programar", "desarrollo", "codigo", "trabajar"],
+    "pasos": [
+      {"app": "vscode"},
+      {"app": "antigravity"}
+    ],
+    "cierra": ["vscode", "antigravity"]
+  },
+  "musica": {
+    "alias": ["musica", "concentracion", "escuchar musica"],
+    "pasos": [
+      {"music": true}
+    ],
+    "cierra": []
+  },
+  "descanso": {
+    "alias": ["descanso", "relax", "pausa", "break"],
+    "pasos": [
+      {"site": "youtube", "query": "musica relajante"},
+      {"volume": "down"}
+    ],
+    "cierra": []
+  }
+}

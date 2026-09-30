@@ -1,0 +1,262 @@
+{
+  "open_app": [
+    "abre {app}", "abrir {app}", "ábreme {app}", "puedes abrir {app}", "inicia {app}",
+    "ejecuta {app}", "lanza {app}", "quiero usar {app}", "pon {app}", "arranca {app}",
+    "necesito {app} abierto", "abre el {app}", "abre la {app}", "por favor abre {app}",
+    "me abres {app}", "carga {app}", "iniciar {app}", "abre el programa {app}",
+    "corre {app}", "podrías abrir {app}", "quiero abrir {app}", "abre la aplicación {app}",
+    "ejecutar {app}", "inicia el {app}", "necesito el {app}", "necesito la {app}",
+    "entra a {app}", "prende {app}", "ábrete {app}", "me ayudas a abrir {app}",
+    "échale a andar {app}", "levanta {app}", "enciende el {app}", "vamos a usar {app}",
+    "dale abrir a {app}", "muéstrame {app}", "prende el {app}", "prende la {app}", "enciende {app}",
+    "prendeme {app}", "ponme {app}",
+    "open {app}", "launch {app}", "start {app}", "run {app}", "open the {app}", "can you open {app}",
+    "ábreme el {app}", "ya abre {app}", "hazme el favor de abrir {app}"
+  ],
+  "close_app": [
+    "cierra {app}", "cerrar {app}", "ciérrame {app}", "puedes cerrar {app}", "termina {app}",
+    "mata {app}", "sal de {app}", "quita {app}", "finaliza {app}", "cierra el {app}",
+    "ya no quiero {app}", "detén {app}", "por favor cierra {app}", "me cierras {app}",
+    "podrías cerrar {app}", "quiero cerrar {app}", "cierra la {app}", "cierra la aplicación {app}",
+    "terminar {app}", "ya no necesito {app}", "sácame de {app}", "cierra el programa {app}",
+    "ciérrame el {app}", "ciérrame la {app}", "me ayudas a cerrar {app}", "apaga {app}",
+    "mata el proceso de {app}", "fuera {app}", "quítame {app} de la pantalla", "ya cierra {app}",
+    "close {app}", "close the {app}", "quit {app}", "exit {app}", "kill {app}", "shut {app}",
+    "can you close {app}", "ciérrame ese {app}", "bájame {app}"
+  ],
+  "search_web": [
+    "busca {q}", "buscar {q}", "busca en google {q}", "googlea {q}", "búscame {q}",
+    "investiga en internet {q}", "busca información sobre {q}", "encuentra {q} en internet",
+    "busca en internet {q}", "puedes buscar {q}", "quiero buscar {q}", "búscame en google {q}",
+    "busca info de {q}", "haz una búsqueda de {q}", "busca {q} en google", "búscalo en google {q}",
+    "pon en google {q}", "busca en la web {q}", "búscame información de {q}", "búscame algo sobre {q}",
+    "me buscas {q}", "podrías buscar {q}", "échale un ojo en internet a {q}", "busca por favor {q}",
+    "búscame en internet {q}", "necesito que busques {q}",
+    "search {q}", "google {q}", "search for {q}", "look up {q}", "búscalo {q}"
+  ],
+  "tell_time": [
+    "qué hora es", "dime la hora", "me dices la hora", "hora actual", "qué horas son",
+    "sabes qué hora es", "qué fecha es hoy", "qué día es hoy", "dime la fecha",
+    "en qué día estamos", "la hora por favor", "cuál es la fecha de hoy", "me puedes decir la hora",
+    "qué día es", "a qué fecha estamos", "fecha de hoy", "tienes la hora", "qué hora tienes",
+    "what time is it", "what's the time", "what's the date", "tell me the time",
+    "qué hora tenemos", "dame la fecha", "a cuánto estamos hoy", "qué día de la semana es",
+    "en qué mes estamos", "cuál es el día de hoy", "en qué fecha estamos", "ya es tarde qué hora es"
+  ],
+  "greet": [
+    "hola", "buenos días", "buenas tardes", "buenas noches", "hey", "qué tal", "saludos",
+    "qué onda", "buenas", "hola qué tal", "buen día", "qué hubo", "estás ahí", "holi", "hola hola",
+    "cómo estás", "qué hay", "cómo te va", "quiubo", "qué más", "hola cómo estás", "oye",
+    "qué pasa", "cómo andas", "buenas buenas", "qué hubo amigo", "holis", "holaa", "hola amigo"
+  ],
+  "goodbye": [
+    "adiós", "hasta luego", "nos vemos", "apágate", "descansa", "ya terminamos", "eso es todo",
+    "hasta mañana", "chao", "bye", "ya puedes descansar", "desconéctate", "sal del programa",
+    "termina la sesión", "gracias eso es todo", "hasta la próxima", "me voy a dormir adiós",
+    "ya no te necesito", "puedes apagarte", "nos vemos luego", "cuídate adiós"
+  ],
+  "volume_up": [
+    "sube el volumen", "más volumen", "súbele", "súbele al volumen", "sube el sonido",
+    "no se escucha", "pon más fuerte", "aumenta el volumen", "más fuerte", "sube un poco el volumen",
+    "súbele a la música", "está muy bajo el volumen", "no oigo nada", "súbele tantito",
+    "ponlo más alto", "sube el audio", "quiero escuchar más fuerte", "dale más volumen",
+    "casi no se oye", "sube la música", "volumen más alto", "no escucho súbele",
+    "el volumen está bajo", "está bajito el volumen", "el sonido está muy bajo", "súbelo que está bajo",
+    "volume up", "louder", "turn it up", "turn the volume up", "más volumen porfa"
+  ],
+  "volume_down": [
+    "baja el volumen", "menos volumen", "bájale", "bájale al volumen", "baja el sonido",
+    "está muy fuerte", "pon más bajo", "disminuye el volumen", "más bajo", "baja un poco el volumen",
+    "bájale a la música", "está muy alto el volumen", "suena demasiado fuerte", "bájale tantito",
+    "ponlo más bajito", "baja el audio", "me estás dejando sordo", "dale menos volumen",
+    "está muy ruidoso", "baja la música", "volumen más bajo", "muy alto bájale",
+    "el volumen está alto", "está altísimo el volumen", "el sonido está muy alto", "bájalo que está alto",
+    "volume down", "turn it down", "lower the volume", "quieter", "menos volumen porfa"
+  ],
+  "volume_mute": [
+    "silencio", "silencia el sonido", "mutea", "quita el sonido", "pon en silencio",
+    "silencia la computadora", "activa el sonido", "desmutea", "mute", "quita el silencio",
+    "silencia todo", "sin sonido", "apaga el sonido", "regresa el sonido", "silencia los parlantes",
+    "que no suene nada", "muteá la compu", "enciende el sonido otra vez",
+    "mute", "unmute", "mute it", "silence", "quita el mute"
+  ],
+  "media_play_pause": [
+    "pausa la música", "pausa", "reanuda la música", "dale play", "continúa la canción",
+    "detén la música", "para la música", "reproduce", "play", "pon pausa", "sigue con la música",
+    "pausa el video", "pon play", "reanuda", "continúa", "para la canción", "quita la pausa",
+    "detén el video", "sigue reproduciendo", "pausa un momento",
+    "pause", "pause it", "resume", "unpause", "stop the music", "pausa eso"
+  ],
+  "media_next": [
+    "siguiente canción", "pasa la canción", "salta esta canción", "la que sigue", "siguiente",
+    "cambia de canción", "otra canción", "adelanta la canción", "skip", "pon la siguiente",
+    "no me gusta esta canción pásala", "siguiente tema", "la próxima canción", "salta esta",
+    "pásale", "siguiente video", "next", "next song", "next track", "skip this song", "cámbiala"
+  ],
+  "media_previous": [
+    "canción anterior", "regresa la canción", "la anterior", "vuelve a la canción anterior",
+    "anterior", "pon la anterior", "retrocede una canción", "regresa a la otra canción",
+    "tema anterior", "la de antes", "regresa una", "pon otra vez la de antes", "video anterior",
+    "vuelve a la anterior", "previous", "previous song", "go back a song", "la de atrás"
+  ],
+  "lock_pc": [
+    "bloquea la computadora", "bloquea el pc", "bloquea la pantalla", "bloquear equipo",
+    "bloquea mi laptop", "pon la pantalla de bloqueo", "bloquea todo", "asegura la computadora",
+    "me voy bloquea la compu", "bloquea la sesión", "bloquea el equipo", "ponle candado a la compu",
+    "protege la computadora que me voy", "bloquea la laptop", "cierra la sesión con bloqueo",
+    "asegura la pantalla", "bloquéala", "bloquea el computador",
+    "lock the pc", "lock the computer", "lock it", "lock the screen"
+  ],
+  "capabilities": [
+    "qué sabes hacer", "qué puedes hacer", "en qué me puedes ayudar", "cuáles son tus funciones",
+    "qué comandos entiendes", "qué modos tienes", "qué programas puedes abrir", "qué carpetas puedes abrir",
+    "dime qué sabes hacer", "para qué sirves", "qué más puedes hacer", "cuéntame qué haces",
+    "qué aplicaciones conoces", "en qué sitios puedes buscar", "qué opciones tengo", "ayuda",
+    "no sé qué pedirte", "dame ejemplos de lo que haces", "qué órdenes aceptas", "qué modos hay",
+    "cuántos programas puedes abrir", "muéstrame tus funciones",
+    "what can you do", "help", "what do you know", "show me your commands", "what are your functions"
+  ],
+  "search_site": [
+    "busca {q} en {site}", "búscame {q} en {site}", "busca en {site} {q}", "pon {q} en {site}",
+    "reproduce {q} en {site}", "quiero ver {q} en {site}", "abre {site} y busca {q}",
+    "encuentra {q} en {site}", "ponme {q} en {site}", "quiero escuchar {q} en {site}",
+    "muéstrame {q} en {site}", "busca en {site} sobre {q}", "abre {site}", "ábreme {site}",
+    "entra a {site}", "pon en {site} {q}", "búscalo en {site}", "busca {q} en el {site}",
+    "search {q} on {site}", "play {q} on {site}", "open {site}", "find {q} on {site}",
+    "look for {q} on {site}", "put {q} on {site}", "ponme en {site} {q}"
+  ],
+  "activate_mode": [
+    "ponte en modo {mode}", "activa el modo {mode}", "modo {mode}", "entra en modo {mode}",
+    "quiero el modo {mode}", "pon el modo {mode}", "activa modo {mode}", "cambia a modo {mode}",
+    "ponte en el modo {mode}", "inicia el modo {mode}", "ponme en modo {mode}", "dale al modo {mode}",
+    "arranca el modo {mode}", "vamos a modo {mode}",
+    "{mode} mode", "switch to {mode} mode", "start {mode} mode", "activate {mode} mode",
+    "ponte modo {mode}", "dale modo {mode}"
+  ],
+  "deactivate_mode": [
+    "sal del modo {mode}", "desactiva el modo {mode}", "termina el modo {mode}", "apaga el modo {mode}",
+    "quita el modo {mode}", "ya no quiero el modo {mode}", "cierra el modo {mode}", "salte del modo {mode}",
+    "terminamos el modo {mode}", "exit {mode} mode", "stop {mode} mode", "end {mode} mode"
+  ],
+  "play_music": [
+    "pon música", "ponme música", "quiero música", "pon algo de música", "reproduce música",
+    "pon música para trabajar", "música por favor", "dale play a la música", "abre la música",
+    "ponme algo de música", "quiero escuchar música", "pon mi música",
+    "play music", "play some music", "put some music", "play my music", "música ya",
+    "pon una canción", "ponme una canción", "quiero una canción", "échame música"
+  ],
+  "set_timer": [
+    "ponme un temporizador de {duration}", "pon un temporizador de {duration}", "temporizador de {duration}",
+    "avísame en {duration}", "despiértame en {duration}", "recuérdame {task} en {duration}",
+    "recuérdame que {task} en {duration}", "pon una alarma en {duration}", "cronómetro de {duration}",
+    "avisa en {duration}", "en {duration} me avisas", "programa un recordatorio de {duration}",
+    "recuérdame {task} dentro de {duration}", "pon un contador de {duration}", "necesito un temporizador de {duration}",
+    "recuérdame {task} en {duration} por favor", "ponme una alarma de {duration}",
+    "set a timer for {duration}", "timer for {duration}", "remind me to {task} in {duration}",
+    "wake me up in {duration}", "alarm in {duration}"
+  ],
+  "cancel_timer": [
+    "cancela el temporizador", "quita el temporizador", "cancela la alarma", "ya no quiero el temporizador",
+    "borra el recordatorio", "cancela los temporizadores", "olvida el recordatorio", "quita la alarma",
+    "detén el temporizador", "cancela el cronómetro", "apaga la alarma"
+  ],
+  "timer_status": [
+    "cuánto falta del temporizador", "cuánto queda del temporizador", "cuánto tiempo falta", "cuánto me queda",
+    "sigue corriendo el temporizador", "qué temporizadores tengo", "cuánto falta para la alarma",
+    "cuánto queda del recordatorio", "tengo algún temporizador", "cómo va el temporizador"
+  ],
+  "open_folder": [
+    "abre la carpeta de {folder}", "abre mis {folder}", "muéstrame la carpeta de {folder}",
+    "ábreme la carpeta de {folder}", "quiero ver mis {folder}", "llévame a la carpeta de {folder}",
+    "abre la carpeta {folder}", "abre el explorador en {folder}", "enséñame la carpeta de {folder}",
+    "necesito la carpeta de {folder}", "abre la carpeta de {folder} por favor", "dónde están mis {folder}",
+    "open the {folder} folder", "open my {folder}", "show me my {folder}", "open {folder} folder",
+    "abre {folder} folder", "ábreme la carpeta {folder}"
+  ],
+  "show_desktop": [
+    "muestra el escritorio", "minimiza todo", "minimiza las ventanas", "oculta todas las ventanas",
+    "quiero ver el escritorio", "baja todas las ventanas", "esconde las ventanas", "enséñame el escritorio",
+    "minimiza todas las ventanas", "despeja la pantalla",
+    "show desktop", "minimize everything", "minimize all windows", "hide the windows"
+  ],
+  "shutdown_pc": [
+    "apaga la computadora", "apaga el pc", "apaga la laptop", "apaga el equipo", "quiero apagar la computadora",
+    "puedes apagar la compu", "apaga la compu", "apágame el equipo", "vamos a apagar la computadora",
+    "apaga el computador"
+  ],
+  "restart_pc": [
+    "reinicia la computadora", "reinicia el pc", "reinicia el equipo", "reinicia la laptop",
+    "quiero reiniciar la compu", "puedes reiniciar la computadora", "reinicia la compu", "reinicia el computador"
+  ],
+  "cancel_shutdown": [
+    "cancela el apagado", "no apagues la computadora", "detén el apagado", "cancela el reinicio",
+    "ya no apagues", "mejor no apagues la compu", "para el apagado", "anula el apagado"
+  ],
+  "confirm_yes": [
+    "sí", "sí confirmo", "confirmo", "dale", "hazlo", "adelante", "correcto", "sí por favor", "ok hazlo",
+    "claro", "afirmativo", "sí sí", "sí adelante", "está bien hazlo", "dale sí"
+  ],
+  "confirm_no": [
+    "no", "no gracias", "mejor no", "olvídalo", "detente", "negativo", "no lo hagas", "espera no",
+    "no no", "cancela eso", "déjalo así", "ya no"
+  ],
+  "chat": [
+    "cuéntame un chiste", "qué es la fotosíntesis", "quién fue albert einstein",
+    "qué opinas de la inteligencia artificial", "explícame qué es python", "dame una receta de pasta",
+    "tengo hambre", "estoy aburrido", "recomiéndame una película", "cuánto es dos más dos",
+    "escríbeme un poema", "por qué el cielo es azul", "me siento triste", "ayúdame a estudiar",
+    "qué me recomiendas para dormir mejor", "cuál es la capital de francia", "el perro corre por el parque",
+    "mañana tengo examen", "dime algo interesante", "cómo se hace un pastel",
+    "quién eres", "traduce hola al inglés", "dame un consejo", "asdfgh", "bla bla bla", "mmm",
+    "cuéntame de ti",
+    "cómo funciona un motor", "hablemos de fútbol", "qué es un agujero negro", "cuál es tu nombre",
+    "gracias", "muy bien", "ok", "qué piensas de mí", "cuántos planetas hay", "me ayudas con mi tarea",
+    "resume la historia de roma", "cómo puedo ser más productivo", "estoy feliz hoy",
+    "cuánto es 12 por 8", "cuánto es veinte entre cuatro", "cuánto son 15 más 30", "cuánto da 7 por 9",
+    "calcula 25 por 4", "cuánto es la raíz cuadrada de 81", "cuánto mide el monte everest",
+    "cuánto pesa una ballena azul", "cuántos años tiene el universo", "cuánto dura un viaje a la luna",
+    "cuánto es el diez por ciento de 200", "cuántos kilómetros hay de lima a cusco",
+    "cuál es la montaña más alta del perú", "cuál es el edificio más alto del mundo", "quién es el jugador más alto",
+    "cuál es el animal más fuerte", "qué música está más de moda", "por qué suena tan fuerte un trueno",
+    "cómo me llamo", "sabes cómo me llamo", "cómo te llamas", "cómo se llama la capital de japón",
+    "cómo se dice gracias en francés", "cómo funciona el internet", "cómo hago para aprender inglés",
+    "qué canción me recomiendas", "cuál es la siguiente fase de la luna", "qué pasó en la segunda guerra mundial",
+    "muchas gracias", "gracias por la ayuda", "te lo agradezco", "mil gracias", "genial gracias",
+    "ayer usé {app}", "mi amigo abrió {app}", "{app} se trabó otra vez", "no me gusta {app}", "{app} está muy lento",
+    "cómo se instala {app}", "quiero aprender a usar {app}", "mi {app} no funciona", "se me cerró {app} solo",
+    "tengo problemas con {app}", "estuve toda la tarde en {app}", "prefiero {app} antes que otros",
+    "estaba escuchando música", "ayer subí una foto", "bajé las escaleras corriendo", "mañana bloqueo mi horario",
+    "la tienda cerró temprano", "abrí la ventana porque hacía calor", "mi hermana pausó la película",
+    "el siguiente paso es estudiar", "anoche busqué recetas", "hablé muy fuerte en clase", "subieron los precios"
+  ],
+  "_slots": {
+    "app": [
+      "brave", "navegador brave", "chrome", "google chrome", "edge", "navegador",
+      "bloc de notas", "notepad", "calculadora", "explorador", "explorador de archivos",
+      "visual studio code", "vscode", "spotify", "paint", "cmd", "terminal", "consola",
+      "discord", "whatsapp", "word", "excel", "configuración", "administrador de tareas",
+      "antigravity", "apple music", "outlook", "onenote", "windows terminal",
+      "github desktop", "filezilla", "wireshark", "hoyoplay", "overwolf", "maono link", "iriun webcam", "ollama"
+    ],
+    "q": [
+      "recetas de pasta", "el clima en lima", "python", "noticias de hoy", "cómo instalar fastapi",
+      "albert einstein", "la segunda guerra mundial", "precio del dólar", "mejores laptops 2026",
+      "machine learning", "tutorial de react", "resultados del partido", "inteligencia artificial",
+      "un pastel de chocolate", "la capital de francia", "vuelos baratos a cancún", "letra de una canción",
+      "horario del cine", "cómo cambiar una llanta", "precio del bitcoin"
+    ],
+    "duration": [
+      "5 minutos", "diez minutos", "media hora", "una hora", "30 segundos", "45 minutos", "2 horas",
+      "quince minutos", "hora y media", "un cuarto de hora", "20 minutos", "3 minutos", "90 segundos",
+      "una hora y media", "dos minutos", "40 minutos",
+      "5 minutes", "ten minutes", "half an hour", "an hour", "30 seconds", "20 minutes", "two hours"
+    ],
+    "task": [
+      "sacar la basura", "llamar a mamá", "tomar agua", "revisar el horno", "enviar el correo",
+      "estirar las piernas", "pagar la luz", "estudiar", "regar las plantas", "salir a caminar"
+    ],
+    "folder": [
+      "descargas", "documentos", "escritorio", "imágenes", "fotos", "música", "vídeos", "videos"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+# Entorno e instalación (cada equipo crea el suyo)
+backend/venv/
+__pycache__/
+*.pyc
+
+# Modelos: pesan cientos de MB, se descargan o entrenan en cada equipo
+backend/models/
+
+# Personal de cada usuario: no se comparte
+backend/.env
+backend/data/
+backend/training/corrections.json
+backend/modes.json
+!backend/modes.example.json
+
+# Lanzador que genera el instalador
+Kyuuri.bat
