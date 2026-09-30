@@ -63,6 +63,10 @@ Equivocarse conversando no hace daño; ejecutar algo que no pediste, sí. Por es
 - **[INSTALAR.md](INSTALAR.md)** — instalación, uso y problemas comunes
 - **[backend/README.md](backend/README.md)** — cómo entrenarlo, agregar comandos, modos y la API
 
+## Licencia
+
+[MIT](LICENSE): úsalo, modifícalo y compártelo libremente, citando la autoría.
+
 ## Hecho con software libre
 
 Whisper (MIT) · [BETO](https://github.com/dccuchile/beto) (CC BY 4.0) · Piper (MIT) ·
